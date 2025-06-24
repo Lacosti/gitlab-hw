@@ -4,7 +4,7 @@
 
 `Установка, настройка и первый вход в Zabbix Server`
 
-![Авторизация в админке](https://github.com/Lacosti/gitlab-hw/img/login_Zabbix_Server.png) 
+![Авторизация в админке](https://github.com/Lacosti/gitlab-hw/blob/main/img/login_Zabbix_Server.png) 
 
 `Команды которые использовались для установки:`
 
@@ -67,7 +67,7 @@ Hostname=Zabbix_Server
 ```
 
 
-![Раздел конфигурации в веб-интерфесе с подключенными агентами](https://github.com/Lacosti/gitlab-hw/img/Hosts_Agent.png)
-![Раздел мониторинга, где видно поступающие данные от агента на второй ВМ](https://github.com/Lacosti/gitlab-hw/img/Monitoring.png)
-![Раздел мониторинга, где видно поступабщие данные от агента на сервере](https://github.com/Lacosti/gitlab-hw/img/Server_Monitoring.png)
-![Логи агента](https://gitgub.com/Lacosti/gitlab-hw/img/log.png)
+![Раздел конфигурации в веб-интерфесе с подключенными агентами](https://github.com/Lacosti/gitlab-hw/blob/main/img/Hosts_Agent.png)
+![Раздел мониторинга, где видно поступающие данные от агента на второй ВМ](https://github.com/Lacosti/gitlab-hw/blob/main/img/Monitoring.png)
+![Раздел мониторинга, где видно поступабщие данные от агента на сервере](https://github.com/Lacosti/gitlab-hw/blob/main/img/Server_Monitoring.png)
+![Логи агента](https://github.com/Lacosti/gitlab-hw/blob/main/img/log.png)
