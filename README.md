@@ -28,8 +28,8 @@ sudo apt install memcached
 systemctl status memcached
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Скриншот выполнения команд](https://github.com/Lacosti/gitlab-hw/blob/main/img/memcached.jpg)`
+
+[Скриншот выполнения команд](https://github.com/Lacosti/gitlab-hw/blob/main/img/memcached.jpg)
 
 
 ---
@@ -50,8 +50,8 @@ value1
 get key1
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Скриншот выполнения команд](https://github.com/Lacosti/gitlab-hw/blob/main/img/TTL.jpg)`
+
+[Скриншот выполнения команд](https://github.com/Lacosti/gitlab-hw/blob/main/img/TTL.jpg)
 
 ### Задание 4. Запись данных в Redis
 
@@ -72,5 +72,5 @@ keys *
 get key1
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Скриншот выполнения команд](https://github.com/Lacosti/gitlab-hw/blob/main/img/redis.jpg)`
+
+[Скриншот выполнения команд](https://github.com/Lacosti/gitlab-hw/blob/main/img/redis.jpg)
